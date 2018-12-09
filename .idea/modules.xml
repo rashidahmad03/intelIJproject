@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Big Multiplication/Big Multiplication.iml" filepath="$PROJECT_DIR$/Big Multiplication/Big Multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collectioninjava/Collectioninjava.iml" filepath="$PROJECT_DIR$/Collectioninjava/Collectioninjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAA/DAA.iml" filepath="$PROJECT_DIR$/DAA/DAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DEEP/DEEP.iml" filepath="$PROJECT_DIR$/DEEP/DEEP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Digonalsum/Digonalsum.iml" filepath="$PROJECT_DIR$/Digonalsum/Digonalsum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hacker rank Compare the Triplets/Hacker rank Compare the Triplets.iml" filepath="$PROJECT_DIR$/Hacker rank Compare the Triplets/Hacker rank Compare the Triplets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hacker rank Non-divisible Subset/Hacker rank Non-divisible Subset.iml" filepath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/Hacker rank Non-divisible Subset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Regex 2 - Duplicate Words/Java Regex 2 - Duplicate Words.iml" filepath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/Java Regex 2 - Duplicate Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSpringIntel/JavaSpringIntel.iml" filepath="$PROJECT_DIR$/JavaSpringIntel/JavaSpringIntel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mountain/Mountain.iml" filepath="$PROJECT_DIR$/Mountain/Mountain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPOJ/SPOJ.iml" filepath="$PROJECT_DIR$/SPOJ/SPOJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String16/String16.iml" filepath="$PROJECT_DIR$/String16/String16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cap/cap.iml" filepath="$PROJECT_DIR$/cap/cap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codecafe/codecafe.iml" filepath="$PROJECT_DIR$/codecafe/codecafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compatative/compatative.iml" filepath="$PROJECT_DIR$/compatative/compatative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divider/divider.iml" filepath="$PROJECT_DIR$/divider/divider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extralong factorial/extralong factorial.iml" filepath="$PROJECT_DIR$/extralong factorial/extralong factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerearth Monk visits Coderland/hackerearth Monk visits Coderland.iml" filepath="$PROJECT_DIR$/hackerearth Monk visits Coderland/hackerearth Monk visits Coderland.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank Angry Professor/hackerrank Angry Professor.iml" filepath="$PROJECT_DIR$/hackerrank Angry Professor/hackerrank Angry Professor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank Divisible Sum Pairs/hackerrank Divisible Sum Pairs.iml" filepath="$PROJECT_DIR$/hackerrank Divisible Sum Pairs/hackerrank Divisible Sum Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank Pattern Syntax Checker/hackerrank Pattern Syntax Checker.iml" filepath="$PROJECT_DIR$/hackerrank Pattern Syntax Checker/hackerrank Pattern Syntax Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank Time Conversion/hackerrank Time Conversion.iml" filepath="$PROJECT_DIR$/hackerrank Time Conversion/hackerrank Time Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank java sort/hackerrank java sort.iml" filepath="$PROJECT_DIR$/hackerrank java sort/hackerrank java sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank min max/hackerrank min max.iml" filepath="$PROJECT_DIR$/hackerrank min max/hackerrank min max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home/home.iml" filepath="$PROJECT_DIR$/home/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javmaster/javmaster.iml" filepath="$PROJECT_DIR$/javmaster/javmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagest word in pragraf/lagest word in pragraf.iml" filepath="$PROJECT_DIR$/lagest word in pragraf/lagest word in pragraf.iml" />
+    </modules>
+  </component>
+</project>

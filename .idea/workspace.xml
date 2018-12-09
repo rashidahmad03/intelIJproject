@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a321fda6-a4ed-4540-8332-a1a875ce8f5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/Big Multiplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/out/production/Big Multiplication/Solutionin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/out/production/Big Multiplication/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/src/Solutionin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big Multiplication/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectioninjava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectioninjava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectioninjava/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectioninjava/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectioninjava/Collectioninjava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectioninjava/out/production/Collectioninjava/Multiplymath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectioninjava/out/production/Collectioninjava/urlgn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectioninjava/src/Multiplymath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectioninjava/src/urlgn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/DAA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/out/production/DAA/Arrrotate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/out/production/DAA/BUBBLE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/out/production/DAA/Quick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/out/production/DAA/Selectionsort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/out/production/DAA/divs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/src/Arrrotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/src/BUBBLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/src/Quick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/src/Selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA/src/divs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEEP/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEEP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEEP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEEP/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEEP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEEP/DEEP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEEP/out/production/DEEP/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEEP/out/production/DEEP/com/company/ca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEEP/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/Digonalsum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/out/production/Digonalsum/com/company/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/out/production/Digonalsum/com/company/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digonalsum/src/com/company/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/HCL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/com/company/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/com/company/whiled.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/mynk/hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/new1/Deepcomput2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/new1/Deepcomput3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/new1/Deepcompute1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part1/Depth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part1/Exception1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part1/FlightInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part1/FlightInfoq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part1/data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part1/flight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part1/oprater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part1/withoutloopnumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/Genrictr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/M.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/Test5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/oprat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/parmutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/sINGLE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/st.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/out/production/HCL/part2/test4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/com/company/TesrClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/com/company/whiled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/greadyap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/mynk/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/new1/Deepcomput2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/new1/Deepcomput3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/new1/Deepcompute1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/nishan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part1/Depth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part1/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part1/data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part1/flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part1/oprater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part1/withoutloopnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part2/Genrictr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part2/oprat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part2/parmutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part2/sINGLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part2/solc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part2/st.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part2/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HCL/src/part2/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Compare the Triplets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Compare the Triplets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Compare the Triplets/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Compare the Triplets/Hacker rank Compare the Triplets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Compare the Triplets/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/Hacker rank Non-divisible Subset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/out/production/Hacker rank Non-divisible Subset/Maidfs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/out/production/Hacker rank Non-divisible Subset/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/out/production/Hacker rank Non-divisible Subset/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/out/production/Hacker rank Non-divisible Subset/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/out/production/Hacker rank Non-divisible Subset/left.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/out/production/Hacker rank Non-divisible Subset/pattern11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/out/production/Hacker rank Non-divisible Subset/ted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/out/production/Hacker rank Non-divisible Subset/ulpartten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/src/hell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/src/left.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/src/pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/src/ted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacker rank Non-divisible Subset/src/ulpartten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/Java Regex 2 - Duplicate Words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/out/production/Java Regex 2 - Duplicate Words/hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Regex 2 - Duplicate Words/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/artifacts/JavaSpringIntel_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/Arquillian_TestNG_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/Drools_6_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/Hibernate_5_3_7_5_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/JPA_2_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/Struts_2_2_5_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/org_thymeleaf_extras_thymeleaf_extras_java8time_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/org_thymeleaf_extras_thymeleaf_extras_springsecurity4_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/libraries/org_thymeleaf_thymeleaf_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/JavaSpringIntel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/FastInoset.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/aether-api-1.0.0.v20140518.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/aether-connector-basic-1.0.0.v20140518.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/aether-impl-1.0.0.v20140518.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/aether-spi-1.0.0.v20140518.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/aether-transport-file-1.0.0.v20140518.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/aether-transport-http-1.0.0.v20140518.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/aether-transport-wagon-1.0.0.v20140518.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/aether-util-1.0.0.v20140518.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/ant-1.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/ant-launcher-1.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/antlr-runtime-3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/byte-buddy-1.8.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/cdi-api-1.0-SP4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/commons-codec-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/commons-fileupload.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/commons-io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/commons-lang.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-compiler-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-compiler-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-core-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-core-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-decisiontables-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-decisiontables-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-jsr94-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-jsr94-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-persistence-jpa-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-persistence-jpa-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-templates-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-templates-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-verifier-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/drools-verifier-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/ecj-4.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/freemarker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/gmbal-api-only.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/guava-13.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/ha-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/hibernate-commons-annotations-5.0.4.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/hibernate-core-5.3.7.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/httpclient-4.3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/httpcore-4.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/itext-2.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/javassist-3.18.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/javassist-3.23.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jaxb-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jaxb-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jaxb-xjc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jaxws-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jaxws-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jaxws-tools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jboss-interceptors-api_1.1_spec-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jcl-over-slf4j-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jsoup-1.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jsr181-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jsr250-api-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/jsr94-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/kie-api-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/kie-api-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/kie-ci-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/kie-ci-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/kie-internal-6.2.0.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/kie-internal-6.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/log4j.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/management-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-aether-provider-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-artifact-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-compat-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-core-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-model-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-model-builder-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-plugin-api-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-repository-metadata-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-settings-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/maven-settings-builder-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/mimepull.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/mvel2-2.2.4.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/ognl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/org.eclipse.sisu.inject-0.0.0.M5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/org.eclipse.sisu.plexus-0.0.0.M5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/plexus-cipher-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/plexus-classworlds-2.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/plexus-component-annotations-1.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/plexus-interpolation-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/plexus-sec-dispatcher-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/plexus-utils-3.0.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/poi-3.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/poi-ooxml-3.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/poi-ooxml-schemas-3.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/protobuf-java-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/saaj-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/saaj-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/sisu-guice-3.1.0-no_aop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/slf4j-api-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/stax-ex.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/stax2-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/streambuffer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/struts2-core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/wagon-http-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/wagon-http-shared4-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/wagon-provider-api-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/woodstox-core-asl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/xml-apis-1.3.04.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/xmlbeans-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/xmlpull-1.1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/xpp3_min-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/lib/xstream-1.4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/out/production/JavaSpringIntel/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/out/production/JavaSpringIntel/example/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/out/production/JavaSpringIntel/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/src/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/src/example/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/src/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSpringIntel/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/Mountain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/mountblue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/out/production/mountblue/com/Listdupplicate/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/out/production/mountblue/com/Maxdifference/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/src/com/Listdupplicate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mountain/src/com/Maxdifference/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/.idea/artifacts/Project2_ear_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/.idea/artifacts/Project2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/.idea/libraries/Hibernate_5_3_7_5_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/.idea/libraries/org_thymeleaf_thymeleaf_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/.idea/libraries/org_thymeleaf_thymeleaf_spring4_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/META-INF/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/Project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/byte-buddy-1.8.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/hibernate-commons-annotations-5.0.4.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/hibernate-core-5.3.7.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/javassist-3.23.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOJ/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOJ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOJ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOJ/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOJ/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOJ/SPOJ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOJ/out/production/SPOJ/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOJ/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String16/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String16/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String16/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String16/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String16/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String16/String16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String16/out/production/String16/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String16/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap/cap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap/out/production/cap/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/codecafe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/out/production/codecafe/codex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/out/production/codecafe/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/out/production/codecafe/com/company/Prime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/src/codex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codecafe/src/com/company/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compatative/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compatative/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compatative/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compatative/compatative.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compatative/out/production/compatative/programs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compatative/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compatative/src/programs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/divider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/out/production/divider/com/company/Biggcd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/out/production/divider/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/src/com/company/Biggcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divider/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/extralong factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/java/lang/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/out/production/extralong factorial/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/out/production/extralong factorial/com/company/Brakut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extralong factorial/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth Monk visits Coderland/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth Monk visits Coderland/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth Monk visits Coderland/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth Monk visits Coderland/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth Monk visits Coderland/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth Monk visits Coderland/hackerearth Monk visits Coderland.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth Monk visits Coderland/out/production/hackerearth Monk visits Coderland/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth Monk visits Coderland/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank Angry Professor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank Divisible Sum Pairs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank Pattern Syntax Checker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank Pattern Syntax Checker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank Time Conversion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank java sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank java sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank java sort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank java sort/hackerrank java sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank java sort/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank min max/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank min max/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank min max/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank min max/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank min max/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank min max/hackerrank min max.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank min max/out/production/hackerrank min max/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank min max/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank-Time-Conversion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/.css/coverage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/.img/arrowDown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/.img/arrowUp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/.classes/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/com.rashid/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/home.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/out/production/home/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/out/production/home/com/rashid/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/src/com/rashid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/javmaster.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/out/production/javmaster/AdvancedArithmetic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/out/production/javmaster/MyCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/out/production/javmaster/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/out/production/javmaster/com/company/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/out/production/javmaster/com/company/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/out/production/javmaster/com/company/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/out/production/javmaster/com/company/Zoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/src/com/company/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/src/com/company/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/src/com/company/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javmaster/src/com/company/inharitance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/Find largest word in paragraph how many time repeats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/com/company/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/com/company/class-use/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/com/company/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/com/company/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/com/company/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/com/company/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/lagest word in pragraf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/out/production/Find largest word in paragraph how many time repeats/com/Hiden.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/out/production/Find largest word in paragraph how many time repeats/com/rashid/BUBBLE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/out/production/Find largest word in paragraph how many time repeats/com/rashid/ROBORT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/src/com/Hiden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/src/com/rashid/BUBBLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/src/com/rashid/ROBORT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagest word in pragraf/word_freq_input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Digonalsum/com/company/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Digonalsum/com/company/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/divider/com/company/Biggcd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/divider/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank Angry Professor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank Angry Professor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank Angry Professor/hackerrank Angry Professor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank Angry Professor/hackerrank Angry Professor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank Pattern Syntax Checker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank Pattern Syntax Checker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank Pattern Syntax Checker/hackerrank Pattern Syntax Checker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank Pattern Syntax Checker/hackerrank Pattern Syntax Checker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank Time Conversion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank Time Conversion/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Biggcd">
+    <configuration name="Biggcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Biggcd" />
+      <module name="divider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Solution" />
+      <module name="Digonalsum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.test" />
+      <module name="Digonalsum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Biggcd" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a321fda6-a4ed-4540-8332-a1a875ce8f5f" name="Default Changelist" comment="" />
+      <created>1544356454099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544356454099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Digonalsum/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Digonalsum/src/com/company/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/divider/src/com/company/Biggcd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/divider/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
